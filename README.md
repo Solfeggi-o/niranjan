@@ -112,5 +112,5 @@ npm start
 
 ## License
 
-All rights reserved. © 2024 Niranjan Vijayan
+All rights reserved. © 2025 ZOURBA MEDIA
 
