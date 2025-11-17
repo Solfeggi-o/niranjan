@@ -679,14 +679,14 @@ body {
 }
 
 .footer-links a {
-    color: white;
+    color: #fbbf24;
     text-decoration: none;
     transition: color 0.2s;
 }
 
 .footer-links a:hover,
 .footer-links a:focus {
-    color: #93c5fd;
+    color: #cee0f5;
 }
 
 .footer-bottom {
@@ -707,4 +707,5 @@ body {
     white-space: nowrap;
     border-width: 0;
 }
+
 
